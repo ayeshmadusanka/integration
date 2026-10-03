@@ -1,9 +1,7 @@
 import { ArrowDownRight, ArrowUpRight, Play } from 'lucide-react'
 
 const shows = [
-  { date: '18.10.26', city: 'Colombo', venue: 'The Warehouse', status: 'Tickets' },
-  { date: '01.11.26', city: 'Kandy', venue: 'Echo Room', status: 'Tickets' },
-  { date: '22.11.26', city: 'Galle', venue: 'South Coast Sound', status: 'Sold out' },
+  { date: '27.09.26', city: 'Colombo', venue: 'Higher Ground Vol 3', status: 'Event Passed' },
 ]
 
 export default function Page() {
