@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Integration. — Drum & Bass Project',
+  title: 'Integration.',
   description: 'Integration. A three-piece drum & bass project from Colombo, Sri Lanka.',
   generator: 'v0.app',
   icons: {
