@@ -24,7 +24,7 @@ export default function Page() {
       <section id="top" className="relative isolate flex min-h-[760px] items-end overflow-hidden px-5 pb-14 pt-28 sm:min-h-screen sm:px-10 sm:pb-20 lg:px-16">
         <picture className="absolute inset-0 -z-20 block size-full">
           <source media="(max-width: 639px)" srcSet="/hero_mobile.jpg" />
-          <img src="/hero-web.jpg" alt="Integration, a three-piece drum and bass artist project" className="size-full object-cover object-center" />
+          <img src="/hero-web.jpg" alt="Integration, a drum and bass artist project" className="size-full object-cover object-center" />
         </picture>
         <div className="absolute inset-0 -z-10 bg-[linear-gradient(180deg,rgba(4,7,8,.68)_0%,rgba(4,7,8,.08)_34%,rgba(4,7,8,.9)_100%)]" />
         <div className="absolute inset-0 -z-10 opacity-30 [background-image:linear-gradient(rgba(211,255,0,.15)_1px,transparent_1px),linear-gradient(90deg,rgba(211,255,0,.15)_1px,transparent_1px)] [background-size:80px_80px] [mask-image:linear-gradient(to_bottom,transparent,black,transparent)]" />

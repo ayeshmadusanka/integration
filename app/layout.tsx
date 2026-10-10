@@ -4,7 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Integration.',
-  description: 'Integration. A three-piece drum & bass project from Colombo, Sri Lanka.',
+  description: 'Integration. Drum & bass Trio from Colombo, Sri Lanka.',
   generator: 'v0.app',
   icons: {
     icon: [
