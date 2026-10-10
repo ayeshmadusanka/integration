@@ -9,20 +9,22 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
+        url: '/favicon/favicon.ico',
+        type: 'image/x-icon',
       },
       {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
+        url: '/favicon/favicon-96x96.png',
+        type: 'image/png',
+        sizes: '96x96',
       },
       {
-        url: '/icon.svg',
+        url: '/favicon/favicon.svg',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/favicon/apple-touch-icon.png',
   },
+  manifest: '/favicon/site.webmanifest',
 }
 
 export const viewport: Viewport = {
